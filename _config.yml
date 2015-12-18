@@ -1,0 +1,28 @@
+name: tantesislandcuisine
+favicon: null
+layout_spectrum: 0.24772772286087275
+typography_spectrum: 0.8920207493938506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8326601379085332
+  lightness: 0.3875142280012369
+  saturation: 0.24272961472161114
+  rhythmicContrast: 0.3590824950952083
+purpose: []
