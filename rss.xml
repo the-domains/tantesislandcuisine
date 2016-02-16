@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tantesislandcuisine]]></title>
-        <description><![CDATA[tantesislandcuisine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tante's Island Cuisine offers award winning ethnic local Filipino and Hawaiian food]]></title>
+        <description><![CDATA[Tante's Island Cuisine offers award winning ethnic local Filipino and Hawaiian food]]></description>
+        <link>https://thegrid.ai/tantesislandcuisine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 07:53:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 00:25:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tantesislandcuisine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tante's Island Cuisine Creates Award-Winning Hawaiian and Filipino Dishes]]></title>
             <description><![CDATA[<article><h1>Tante's Island Cuisine Creates Award-Winning Hawaiian and Filipino Dishes</h1><p>Wonderful Dishes Created By Chef Tante Urban </p></article>]]></description>
-            <link>undefinedtantes-island-cuisine-creates-award-winning-hawaiian-and-fi/index.html</link>
+            <link>https://thegrid.ai/tantesislandcuisine/tantes-island-cuisine-creates-award-winning-hawaiian-and-fi/index.html</link>
             <guid isPermaLink="false">42f01e42-af0a-4263-8b98-6be34c973654</guid>
-            <pubDate>Fri, 18 Dec 2015 07:53:21 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 00:17:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
