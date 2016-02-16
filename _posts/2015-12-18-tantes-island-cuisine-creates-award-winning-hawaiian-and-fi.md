@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Chef Tante Urban is known for his wonderful award winning Filipino dishes and local Hawaiian food too. '
-datePublished: '2015-12-18T07:53:21.296Z'
-dateModified: '2015-12-18T07:52:49.688Z'
+datePublished: '2016-02-16T00:17:07.613Z'
+dateModified: '2016-02-16T00:16:28.779Z'
 title: "Tante's Island Cuisine Creates Award-Winning Hawaiian and Filipino Dishes"
 author: []
 authors: []
